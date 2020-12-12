@@ -1,0 +1,26 @@
+{
+  "name": "@cdr0/config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ceconfig": "./bin/c0config.js"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/config.git"
+  },
+  "author": "Brian C Sparks <briancsparks@gmail.com>",
+  "homepage": "https://github.com/briancsparks/config",
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
