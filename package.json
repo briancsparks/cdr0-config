@@ -1,10 +1,10 @@
 {
   "name": "@cdr0/config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Dynamic configuration finder and provider",
   "main": "index.js",
   "bin": {
-    "ceconfig": "./bin/c0config.js"
+    "c0config": "bin/config.js"
   },
   "scripts": {
     "test": "ava"

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const { isnt }                = require('../lib/extern/sg');
+const { isnt }                = require('../polyrepo/cdr0-sg');
 const { mkCONFIG, mkARGV }    = require('..');
 
 const ARGV                    = mkARGV();
