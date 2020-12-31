@@ -21,6 +21,9 @@
     "ava": "^3.13.0"
   },
   "dependencies": {
+    "@cdr0/polyrepo": "^1.0.3",
+    "@cdr0/sg": "^1.0.2",
+    "@cdr0/sgfs": "^1.0.0",
     "dotenv": "^8.2.0"
   }
 }
