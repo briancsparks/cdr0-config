@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/briancsparks/config.git"
+    "url": "git+https://github.com/briancsparks/cdr0-config.git"
   },
   "author": "Brian C Sparks <briancsparks@gmail.com>",
-  "homepage": "https://github.com/briancsparks/config",
+  "homepage": "https://github.com/briancsparks/cdr0-config",
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
