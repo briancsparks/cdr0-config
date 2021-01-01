@@ -1,6 +1,6 @@
 {
   "name": "@cdr0/config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dynamic configuration finder and provider",
   "main": "index.js",
   "bin": {
@@ -21,7 +21,7 @@
     "ava": "^3.13.0"
   },
   "dependencies": {
-    "@cdr0/polyrepo": "^1.0.3",
+    "@cdr0/polyrepo": "^1.0.4",
     "@cdr0/sg": "^1.0.2",
     "@cdr0/sgfs": "^1.0.0",
     "dotenv": "^8.2.0"
